@@ -1,0 +1,5 @@
+nombre, nota1, nota2
+Jose Diaz, 14.5, 20.0
+Maria Ramos, 15.0, 20.0
+Gerardo Lopez, 18.0, 10.0
+Carlos Benavente, 15.0, 20.0
